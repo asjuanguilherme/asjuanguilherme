@@ -13,12 +13,6 @@ Currently residing in **Brussels**, I’m open to **job opportunities**!
 - **Testing & Quality:** Jest, Vitest, Cypress, TDD, Clean Code, Clean Architecture
 - **Tools & Others:** Git, GitHub, Git Flow, SEO, Rank A11y (Web Accessibility), Progressive Web Apps (PWA), Docker, CI/CD, Vercel, Netlify, Firebase, Supabase
 
-### 📊 GitHub Stats
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asjuanguilherme&show_icons=true&theme=radical)
-
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjuanguilherme&layout=compact&theme=radical)
-
 ### 🌍 Where to Find Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-juandev.be-blue?style=for-the-badge)](https://juandev.be)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juanguilherme/)
